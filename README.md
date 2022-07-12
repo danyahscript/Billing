@@ -1,6 +1,6 @@
 # Billing 
 
-Billing is a Supermarket Basic Billing System written with Java Object-Oriented-Programming(OOP) and Java Database Connectivity(JDBC), specialized in billing where it organizes a medium-sized grocery store, with an appropriate and clear interface to navigate it. It is mainly used by either the cashier or the manager to input purchases and item information into the system.
+Billing is a Supermarket Basic Billing System written with Java Object-Oriented-Programming(OOP) and Java Database Connectivity(JDBC) including GUIs, specialized in billing where it organizes a medium-sized grocery store, with an appropriate and clear interface to navigate it. It is mainly used by either the cashier or the manager to input purchases and item information into the system.
 
 
 The system is available for an `administrator, Cashiers, and Stock Clerks`  with different privileges. The ` administrator`  has an overall control over the system, where it registers employees along with their jobs. The ` Stock Clerks`  can add, delete, and update items along with their related information into the system, while the ` Cashiers` in turn responsible of the check-out process for the purchased items.
