@@ -18,17 +18,23 @@ System Constraints:
 # Demo
 
 the `Login` interface will let the user to select its role to provide their valid credentials.
+
 <img width="501" alt="Screen Shot 2022-07-12 at 2 13 22 PM" src="https://user-images.githubusercontent.com/74468149/178477553-262a0616-66b5-4f94-94c7-629572af2caa.png">
 
 If the `Stock Clerk` logs on, the `Product` interface will appear to perform addition, modification, and deletion on the items.
+
 <img width="504" alt="Screen Shot 2022-07-12 at 2 15 20 PM" src="https://user-images.githubusercontent.com/74468149/178477843-467d6323-d605-4e94-902d-9b486d5dab61.png">
+
 <img width="515" alt="Screen Shot 2022-07-12 at 2 17 16 PM" src="https://user-images.githubusercontent.com/74468149/178478008-e9f4c080-0d75-49ba-853c-ff74a7c6bf41.png">
+
 <img width="515" alt="Screen Shot 2022-07-12 at 2 17 25 PM" src="https://user-images.githubusercontent.com/74468149/178478017-f5dd339f-d4ea-495f-b7b2-8fbb975753bf.png">
 
 If the `Cachier` logs on, the `Customer Info.` interface will appear to perform addition and deletion of customer information, and choosing their Membership. `Choose Button` will open the `Card Membership interface`.
 
 <img width="499" alt="Screen Shot 2022-07-12 at 2 23 22 PM" src="https://user-images.githubusercontent.com/74468149/178479074-a1403c1e-5daa-4dd6-a1e8-5d543ba154d3.png">
+
 <img width="497" alt="Screen Shot 2022-07-12 at 2 23 38 PM" src="https://user-images.githubusercontent.com/74468149/178479087-1886b261-65b2-4fd9-8e85-8f9d5027a359.png">
+
 <img width="456" alt="Screen Shot 2022-07-12 at 2 23 58 PM" src="https://user-images.githubusercontent.com/74468149/178479103-39972dbb-75bf-413c-bf5d-e6d1fbe3e740.png">
 
 After adding the customer, the `Cachier` can navigate to the `Billing` interface. This interface capable to perform filteration on the products, abd adding them to the bill.  ` The bill will be exported to a file inside the project whenever the Cachier clicks done`.
@@ -38,6 +44,7 @@ After adding the customer, the `Cachier` can navigate to the `Billing` interface
 If the `Administrator "Manager"` logs on, the `Welcome` interface will appear which enable the admin to have an overlook through the system. 
 
 <img width="477" alt="Screen Shot 2022-07-12 at 2 29 37 PM" src="https://user-images.githubusercontent.com/74468149/178480458-db82bff1-aa2f-44f8-b714-e7097c6d8757.png">
+
 <img width="462" alt="Screen Shot 2022-07-12 at 2 29 50 PM" src="https://user-images.githubusercontent.com/74468149/178480479-89f600f3-e12d-4231-8f6a-4fa5f1778909.png">
 
 In `Manage Seller` interface, manager can control the employees (Add, Edit, and Delete).
